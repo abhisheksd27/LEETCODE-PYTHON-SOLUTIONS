@@ -1,2 +1,2 @@
-# LEETCODE-PYTHON-SOLUTIONS
-Leetcode solutions in Python3 || Simple Appraoch ||🧑‍💻💻🤖
+# LEETCODE-PYTHON-JAVASCRIPT-SOLUTIONS
+Leetcode solutions in Python3 AND javascript || Simple Appraoch ||🧑‍💻💻🤖
